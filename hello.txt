@@ -1,1 +1,2 @@
 hello git
+ssh로 클론도 잘했음
